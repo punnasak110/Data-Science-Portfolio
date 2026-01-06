@@ -5,7 +5,7 @@ Welcome to my project gallery! Here is a collection of my Machine Learning & Dat
 
 | ID | Project Name & Description | Domain | Link |
 |:---:|:---|:---|:---:|
-| 01 | **Price Optimization Analysis** <br> *วิเคราะห์หาราคาขายที่เหมาะสม (Optimal Price) และประเมินความเสี่ยงด้วย Quantile Regression* | Data Science <br> Risk Analytics | [View Code](./Optimization_Price.ipynb) |
+| 01 | **Price Optimization Analysis** <br> *วิเคราะห์หาราคาขายที่เหมาะสม (Optimal Price) และประเมินความเสี่ยงด้วย Quantile Regression* | Data Science <br> Risk Analytics | [View Project](./OptimizationPrice_Quantile) |
 | 03 | **Thai Character Recognition** <br> *จำแนกตัวอักษรไทยด้วย ResNet18 (Accuracy 95.5%)* | Computer Vision <br> Deep Learning | [View Project](./DL_ThaiCharecter_Classification) |
 | 04 | **Customer Segmentation** <br> *จัดกลุ่มลูกค้า 4 ประเภทตามพฤติกรรมการใช้จ่ายด้วย K-Means* | Data Science <br> K-mean Clustering  | [View Code](./Cluster_by_K-mean.ipynb) |
 | 05 | **AutoEDA Tool** <br> *สร้าง Script ช่วยวิเคราะห์ข้อมูลเบื้องต้นอัตโนมัติ (Coming Soon)* | Automation | (Ongoing) |
