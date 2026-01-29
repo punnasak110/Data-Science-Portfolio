@@ -11,6 +11,7 @@ Welcome to my project gallery! Here is a collection of my Machine Learning & Dat
 | 04 | **Shipment Dash board** <br> *Dash board ช่วยวิเคราะห์ข้อมูลเบื้องต้นของ Shipment sales* | Visualization <br> Power bi | [View Project](./Shipment_Dashboard) |
 | 05 | **Sales & Profit Dash board** <br> *Dash board ช่วยวิเคราะห์ข้อมูลเบื้องต้นของ Sales & Profit* | Visualization <br> Excel | [View Project](./Sales_Dashboard) |
 | 06 | **AutoEDA Tool** <br> *สร้าง Script ช่วยวิเคราะห์ข้อมูลเบื้องต้นอัตโนมัติ (Coming Soon)* | Automation | (Ongoing) |
+| 07 | **Automation Dashboard** <br> *ทำ sale report แบบอัตโนมัตอัพเดททุกวัน (Coming Soon)* | Report <br> Automation | (Ongoing) |
 
 ---
 ### 📫 Contact Me
